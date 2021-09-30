@@ -1,5 +1,8 @@
 # Snake and Apple Game
 
+### Resources
+    https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU - to learn the Basics of the Python
+
 Building snake and apple game in pygame and python
 
 Snake and apple game is a simple game where snake moves in particular direction automatically, and when snake eats an apple it gets longer and your score increases.
